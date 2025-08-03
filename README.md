@@ -40,15 +40,13 @@ pip install -r requirements.txt
 
 ## ▶️ How to Run
 
-1. Install dependencies above.
-2. Set up PostgreSQL and create database `coedb` with user `coe` and password `CoEpasswd`.
-3. Run:
+Run:
 
 ```bash
-python app.py
+python noteapp.py
 ```
 
-4. Visit `http://127.0.0.1:5000` in your browser.
+Visit `http://127.0.0.1:5000` in your browser.
 
 --- 
 
